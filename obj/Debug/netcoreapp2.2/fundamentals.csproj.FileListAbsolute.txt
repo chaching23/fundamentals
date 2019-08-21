@@ -1,0 +1,11 @@
+/Users/chachi/Desktop/C#/fundamentals/bin/Debug/netcoreapp2.2/fundamentals.deps.json
+/Users/chachi/Desktop/C#/fundamentals/bin/Debug/netcoreapp2.2/fundamentals.runtimeconfig.json
+/Users/chachi/Desktop/C#/fundamentals/bin/Debug/netcoreapp2.2/fundamentals.runtimeconfig.dev.json
+/Users/chachi/Desktop/C#/fundamentals/bin/Debug/netcoreapp2.2/fundamentals.dll
+/Users/chachi/Desktop/C#/fundamentals/bin/Debug/netcoreapp2.2/fundamentals.pdb
+/Users/chachi/Desktop/C#/fundamentals/obj/Debug/netcoreapp2.2/fundamentals.csprojAssemblyReference.cache
+/Users/chachi/Desktop/C#/fundamentals/obj/Debug/netcoreapp2.2/fundamentals.csproj.CoreCompileInputs.cache
+/Users/chachi/Desktop/C#/fundamentals/obj/Debug/netcoreapp2.2/fundamentals.AssemblyInfoInputs.cache
+/Users/chachi/Desktop/C#/fundamentals/obj/Debug/netcoreapp2.2/fundamentals.AssemblyInfo.cs
+/Users/chachi/Desktop/C#/fundamentals/obj/Debug/netcoreapp2.2/fundamentals.dll
+/Users/chachi/Desktop/C#/fundamentals/obj/Debug/netcoreapp2.2/fundamentals.pdb
